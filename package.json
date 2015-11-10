@@ -1,0 +1,25 @@
+{
+  "name": "bonusly-script",
+  "version": "1.0.0",
+  "description": "Send bonus points",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nluo/bonusly-script.git"
+  },
+  "keywords": [
+    "bonusly"
+  ],
+  "author": "Nick Luo <nick.luo@icloud.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nluo/bonusly-script/issues"
+  },
+  "homepage": "https://github.com/nluo/bonusly-script#readme",
+  "dependencies": {
+    "bonusly-client": "^1.0.11"
+  }
+}
