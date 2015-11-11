@@ -1,7 +1,7 @@
 # bonusly-command-line
 
 ### What
-Send 1 point of bonusly point to someone with [Bonusly API](https://bonus.ly/api)
+Send 1 point of bonusly point each time to someone with [Bonusly API](https://bonus.ly/api)
 
 ### Motivation (or why)
 [Bonusly](https://bonus.ly) ranks the most receivers/givers based on how many times you have received/sent a point, e.g. if you have recieved/given 10 times 1 point (totally 10 points), you will be ranked higher than someone who recives/gives 10 points in total 1 shot.
@@ -14,6 +14,14 @@ Check out this repository:
 git clone git@github.com:nluo/bonusly-command-line.git\
 cd bonusly-command-line
 ```
+
+Edit the config.json inside the directory and replace with your Bonusly API token (You could get from [here](https://bonus.ly/api))
+```
+{
+  "token": "PUT YOUR BONUSLY API TOKEN HERE (https://bonus.ly/api/)"
+}
+```
+
 Now you could start sending (or flooding :p) someone some bonus points!
 
 Example:
