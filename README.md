@@ -11,7 +11,7 @@ Send 1 point of bonusly point each time to someone with [Bonusly API](https://bo
 Check out this repository:
 
 ```
-git clone git@github.com:nluo/bonusly-command-line.git\
+git clone git@github.com:nluo/bonusly-command-line.git
 cd bonusly-command-line
 ```
 
