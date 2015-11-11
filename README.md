@@ -15,7 +15,7 @@ git clone git@github.com:nluo/bonusly-command-line.git
 cd bonusly-command-line
 ```
 
-Edit the config.json inside the directory and replace with your Bonusly API token (You could get from [here](https://bonus.ly/api))
+Edit the config.json inside the directory and replace with your Bonusly API `Access Token` (You could get from [here](https://bonus.ly/api))
 ```
 {
   "token": "PUT YOUR BONUSLY API TOKEN HERE (https://bonus.ly/api/)"
