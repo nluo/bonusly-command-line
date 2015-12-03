@@ -12,7 +12,11 @@ Check out this repository:
 
 ```
 git clone git@github.com:nluo/bonusly-command-line.git
+```
+
+```
 cd bonusly-command-line
+npm i
 ```
 
 Edit the config.json inside the directory and replace with your Bonusly API `Access Token` (You could get from [here](https://bonus.ly/api))
