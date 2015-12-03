@@ -27,7 +27,7 @@ Now you could start sending (or flooding :p) someone some bonusly points!
 Example:
 
 ``` 
-  node index.js bob.smith@example.com 10 "You're aweomse #awesomeness! "
+  node index.js bob.smith@example.com 10 "You're awesome #awesomeness! "
 ```
 
 This will send 1 point each time repeat 10 times (totally 10 points) to bob.smith@example.com with message "You're aweomse #awesomeness!"
