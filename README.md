@@ -10,13 +10,15 @@ Send 1 point of [Bonusly](https://bonus.ly) point each time to someone with [Bon
 
 Check out this repository:
 
+```sh
+$ git clone git@github.com:nluo/bonusly-command-line.git
 ```
-git clone git@github.com:nluo/bonusly-command-line.git
-```
+Install the dependencies with npm:
 
-```
-cd bonusly-command-line
-npm i
+```sh
+$ cd bonusly-command-line
+
+$ npm i
 ```
 
 Edit the config.json inside the directory and replace with your Bonusly API `Access Token` (You could get from [here](https://bonus.ly/api))
