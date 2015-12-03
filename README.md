@@ -17,7 +17,8 @@ Install the dependencies with npm:
 
 ```sh
 $ cd bonusly-command-line
-
+```
+```sh
 $ npm i
 ```
 
